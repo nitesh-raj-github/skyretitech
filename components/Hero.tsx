@@ -1,3 +1,5 @@
+"use client";
+
 import HeroScene from "./three/HeroScene";
 
 
